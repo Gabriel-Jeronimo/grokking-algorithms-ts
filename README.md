@@ -1,3 +1,4 @@
+![Cover art of the book grokking algorithms](https://m.media-amazon.com/images/I/81HwgKQ39lS._AC_UF1000,1000_QL80_.jpg)
 # Grokking Algorithms in TypeScript
 
 This repository contains TypeScript code implementations of algorithms and exercises from the book "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People" by Aditya Y. Bhargava. This book provides a beginner-friendly introduction to a wide range of algorithms, making them easy to understand and implement.
